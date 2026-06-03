@@ -24,7 +24,7 @@ export const publicationData: Publication[] = [
     paperUrl: "https://www.mdpi.com/2673-4591/124/1/118",
     tldr: "A region-guided deep learning framework for improved colorectal polyp detection in colonoscopy images. Published in Eng. Proc. 2026, 124, 118.",
     imageUrl: publicationImage1,
-    award: "🏅 Peer-Reviewed",
+    award: "📖 Peer-Reviewed",
   },
   // {
   //   year: "2026",
