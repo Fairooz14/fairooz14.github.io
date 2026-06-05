@@ -42,7 +42,7 @@ export default function Home() {
                   return (
                     newsData.length > 0 && (
                       <section key={sectionName}>
-                        <h2 className="font-serif text-l mb-12 tracking-wide uppercase">
+                       <h2 className="font-serif text-l mb-12 tracking-wide uppercase border-b border-current pb-1 inline-block min-w-[50%]">
                           News
                         </h2>
                         <div className="space-y-12">
@@ -59,7 +59,7 @@ export default function Home() {
                   return (
                     educationData.length > 0 && (
                       <section key={sectionName}>
-                        <h2 className="font-serif text-zinc-700 mb-12 tracking-wide uppercase">
+                        <h2 className="font-serif text-l mb-12 tracking-wide uppercase border-b border-current pb-1 inline-block min-w-[50%]">
                           Education
                         </h2>
                         <div className="space-y-12">
@@ -74,7 +74,7 @@ export default function Home() {
                   return (
                     publicationData.length > 0 && (
                       <section key={sectionName}>
-                        <h2 className="font-serif text-l mb-12 tracking-wide uppercase">
+                        <h2 className="font-serif text-l mb-12 tracking-wide uppercase border-b border-current pb-1 inline-block min-w-[50%]">
                           Publications
                         </h2>
                         <div className="space-y-12">
@@ -94,7 +94,7 @@ export default function Home() {
                   return (
                     experienceData.length > 0 && (
                       <section key={sectionName}>
-                        <h2 className="font-serif text-md mb-12 tracking-wide uppercase">
+                        <h2 className="font-serif text-l mb-12 tracking-wide uppercase border-b border-current pb-1 inline-block min-w-[50%]">
                           Experience
                         </h2>
                         <div className="space-y-12">
@@ -112,7 +112,7 @@ export default function Home() {
                   return (
                     portfolioData.length > 0 && (
                       <section key={sectionName}>
-                        <h2 className="font-serif text-md mb-12 tracking-wide uppercase">
+                        <h2 className="font-serif text-l mb-12 tracking-wide uppercase border-b border-current pb-1 inline-block min-w-[50%]">
                           Portfolio
                         </h2>
                         <div className="space-y-12">
@@ -127,7 +127,7 @@ export default function Home() {
                   return (
                     awardsData.length > 0 && (
                       <section key={sectionName}>
-                        <h2 className="font-serif text-md mb-12 tracking-wide uppercase">
+                        <h2 className="font-serif text-l mb-12 tracking-wide uppercase border-b border-current pb-1 inline-block min-w-[50%]">
                           Awards & Recognitions
                         </h2>
                         <div className="space-y-8">

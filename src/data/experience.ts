@@ -23,5 +23,6 @@ export const experienceData: Experience[] = [
     company: "mPair Technologies",
     description:
       "Integrated GraphQL APIs enabling efficient data retrieval and structured data flow between services. Processed and mapped API response data into application-ready formats and optimised queries to reduce redundant data transfer.",
+    companyUrl: "https://mpairtech.com/",
   },
 ];

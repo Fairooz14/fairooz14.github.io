@@ -41,7 +41,7 @@ description: `
 
     <p>My research focuses on teaching models to detect and segment what trained clinical eyes spend years learning to see in settings where labeled data is scarce and the cost of being wrong is high. I work across gastrointestinal and dermatological imaging, with a particular interest in semi-supervised learning, uncertainty estimation, and vision foundation model adaptation for clinical tasks.</p>
 
-    <p>I completed my B.Sc. at <a href='https://www.iiuc.ac.bd'>IIUC</a> and am currently conducting <strong>independent research in collaboration with researchers across different institutions</strong>. Four papers are published or under review at venues including BMVC, MIET, and ICCA.</p>
+    <p>I completed my B.Sc. at <a href='https://www.iiuc.ac.bd'>IIUC</a> and am currently conducting <strong>independent research in collaboration with researchers across different institutions</strong>. One paper is published and four are under review at top-tier national and international venues including BMVC, MIET, and ICCA, with acceptance rates of 20–30%.</p>
 
     <p>I am actively seeking a <strong>Master's position</strong> to pursue this work with the infrastructure and mentorship it deserves. If your group works on medical imaging or label-efficient deep learning, I would love to connect.</p>
 

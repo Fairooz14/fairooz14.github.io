@@ -8,6 +8,12 @@ export interface News {
 
 export const newsData: News[] = [
   {
+  date: "May 2026",
+  title: "Paper under review at ICCA 2026",
+  description:
+    "From Limited Labels to Reliable Diagnosis: A Lightweight, Interpretable, and Uncertainty-Aware Semi-Supervised Framework for Breast Cancer Histopathology Classification submitted to the 4th International Conference on Computing Advancements.",
+},
+  {
     date: "Aug 2026",
     title: "Paper under review at BMVC 2026",
     description:
@@ -20,17 +26,17 @@ export const newsData: News[] = [
       "Multi-Branch Late Fusion for Fine-Grained Emotion Recognition in Low-Resource Chittagong Bangla submitted to the 4th International Conference on Computing Advancements.",
   },
   {
-    date: "Jun 2026",
-    title: "Paper under review at MIET 2026",
-    description:
-      "Entropy-Gated Semi-Supervised Learning for Gastrointestinal Endoscopy Classification with Uncertainty Decomposition submitted to the 3rd International Conference on Machine Intelligence and Emerging Technologies.",
-  },
-  {
     date: "May 2026",
     title: "Paper published in Engineering Proceedings (MDPI)",
     description:
       "Advancing Colorectal Polyp Detection in Colonoscopy Through Region-Guided Deep Learning published in Eng. Proc. 2026, 124, 118.",
     link: "https://scholar.google.com/citations?user=rH3XPNIAAAAJ&hl=en",
+  },
+    {
+    date: "March 2026",
+    title: "Paper under review at MIET 2026",
+    description:
+      "Entropy-Gated Semi-Supervised Learning for Gastrointestinal Endoscopy Classification with Uncertainty Decomposition submitted to the 3rd International Conference on Machine Intelligence and Emerging Technologies.",
   },
   {
     date: "Dec 2025",
@@ -93,10 +99,4 @@ export const newsData: News[] = [
     description:
       "Ranked 1st among all female participants (1st–4th semester) in algorithmic problem-solving and competitive programming.",
   },
-  // {
-  //   date: "Aug 2021",
-  //   title: "Started B.Sc. CSE at IIUC",
-  //   description:
-  //     "Began undergraduate studies in Computer Science and Engineering at International Islamic University of Chittagong.",
-  // },
 ];
